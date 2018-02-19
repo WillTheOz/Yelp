@@ -33,6 +33,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/uN73oGi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Below is the portrait mode:
+<img src='https://i.imgur.com/xXGzTwE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
